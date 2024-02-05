@@ -1,0 +1,3 @@
+insert into todo (ID, DESCRIPTION, DONE, TARGET_DATE, USERNAME) values (10001,  'Get AWS Certified',  false, CURRENT_DATE(),  'Akash')
+insert into todo (ID, DESCRIPTION, DONE, TARGET_DATE, USERNAME) values (10002,  'Get Photograpgy Certified',  false, CURRENT_DATE(),  'Akash')
+insert into todo (ID, DESCRIPTION, DONE, TARGET_DATE, USERNAME) values (10003,  'Learn Spring boot',  false, CURRENT_DATE(),  'Akash')
